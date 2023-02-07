@@ -18,6 +18,10 @@ p {
   text-align: center;
 }
 
+p {
+  width: 40%;
+}
+
 #rightbox {
   width: 50%;
   border: 1px solid green;
