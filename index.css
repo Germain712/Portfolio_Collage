@@ -10,8 +10,10 @@
 
 #leftbox {
   width: 50%;
+  border: 1px solid black;
 }
 
 #rightbox {
   width: 50%;
+  border: 1px solid green;
 }
