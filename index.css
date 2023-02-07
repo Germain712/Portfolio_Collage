@@ -7,3 +7,11 @@
   border: 1px solid red;
   display: flex;
 }
+
+#leftbox {
+  width: 50%;
+}
+
+#rightbox {
+  width: 50%;
+}
