@@ -53,6 +53,7 @@ p {
 }
 
 .four {
+  grid-row: span 2;
 }
 
 .five {
