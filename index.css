@@ -45,6 +45,7 @@ p {
 
 #box:hover {
   cursor: pointer;
+  background-position: bottom;
 }
 
 .one {
