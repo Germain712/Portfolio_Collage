@@ -41,6 +41,7 @@ p {
   flex-direction: column;
   margin: 2px;
   background-position: right;
+  transition: all ease-in-out 1s;
 }
 
 #box:hover {
