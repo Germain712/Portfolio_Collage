@@ -42,6 +42,7 @@ p {
 }
 
 .one {
+  grid-row: span 2;
 }
 
 .two {
