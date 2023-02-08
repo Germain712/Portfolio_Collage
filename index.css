@@ -31,7 +31,7 @@ p {
   grid-template-columns: repeat(3, 1fr);
 }
 
-#box {
+.box {
   background-size: cover;
   display: flex;
   justify-content: center;
@@ -41,33 +41,27 @@ p {
   transition: all ease-in-out 1s;
 }
 
-#box:hover {
+.box:hover {
   cursor: pointer;
   background-position: bottom;
 }
 
-.one {
+#one {
   grid-row: span 2;
 }
 
-.two {
+#two {
   grid-column: span 2;
 }
 
-.three {
-}
-
-.four {
+#four {
   grid-row: span 2;
 }
 
-.five {
+#five {
   grid-column: span 2;
 }
 
-.six {
-}
-
-.seven {
+#seven {
   grid-column: span 2;
 }
