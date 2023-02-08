@@ -1,12 +1,14 @@
 * {
   margin: 0;
   padding: 0;
+  color: white;
 }
 
 #container {
   border: 1px solid red;
   display: flex;
   height: 400px;
+  background: rgb(1, 34, 1);
 }
 
 #leftbox {
