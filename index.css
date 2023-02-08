@@ -30,6 +30,8 @@ p {
 #rightbox {
   width: 50%;
   border: 1px solid green;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
 }
 
 #box {
