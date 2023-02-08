@@ -46,6 +46,7 @@ p {
 }
 
 .two {
+  grid-column: span 2;
 }
 
 .three {
