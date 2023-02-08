@@ -43,6 +43,10 @@ p {
   background-position: right;
 }
 
+#box:hover {
+  cursor: pointer;
+}
+
 .one {
   grid-row: span 2;
 }
